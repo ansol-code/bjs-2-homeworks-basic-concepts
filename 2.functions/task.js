@@ -1,6 +1,6 @@
 function getArrayParams(...arr) {
 
-  if (arr.lenght === 0)
+  if (arr.length === 0)
 
   return { min: min, max: max, avg: avg };
 
@@ -47,21 +47,8 @@ return {
 
 
 function summElementsWorker(...arr) {
- 
-}
-
-function differenceMaxMinWorker(...arr) {
 
 }
-
-function differenceEvenOddWorker(...arr) {
-
-}
-
-function averageEvenElementsWorker(...arr) {
-
-}
-
 function makeWork (arrOfArr, func) {
 
 }
